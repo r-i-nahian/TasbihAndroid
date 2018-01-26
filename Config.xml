@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Tasbih</name>
+
+  <description>
+      Tasbih is an Islamic Prayer Counter application that allows you to perform Tasbeeh count while you are travelling, in office, mosque anywhere.
+  </description>
+
+  <author href="http://wezapps.com/" email="contact@wezapps.com">
+      Wezapps Tech
+  </author>
+  
+  <icon src="img/icons/icon-512.png" />
+
+</widget>
